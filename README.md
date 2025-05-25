@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Damian Metovic</h1>
 <h3 align="center">A passionate developer who loves front-end design and building engaging user experiences.</h3>
 
+<p align="center">
 - 📫 How to reach me **damianmetovic@hotmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
